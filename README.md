@@ -16,5 +16,7 @@ First, welcome to this crash course on Java.
 ## Outline
 
 * Introduction (Lecture ~ 20 min)
+* Exercise with the new String methods (Lab 2 ~ 10 min)
 * Exercise with variables (Lab 3 ~ 10 min)
 * Exercise with loops (Lab 4 ~ 10 min)
+* Exercise with the new HttpClient (Lab 5 ~ 10 min)
