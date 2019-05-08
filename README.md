@@ -16,6 +16,9 @@ First, welcome to this crash course on Java.
 ## Outline
 
 * Introduction (Lecture ~ 20 min)
+* Exercise with scripts (With Docker ~ 10 min)
+  * Run the following command in a terminal `docker build -t j1 .`
+  * Then `docker run -it j1 /bin/bash`
 * Exercise with the new String methods (Lab 2 ~ 10 min)
 * Exercise with Local variable Type inference (Lab 3 ~ 10 min)
 * Exercise with loops (Lab 4 ~ 10 min)
