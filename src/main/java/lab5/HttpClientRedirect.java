@@ -1,10 +1,12 @@
+package lab5;
+
 import java.io.IOException;
 import java.net.URI;
 import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class Lab5 {
+public class HttpClientRedirect {
 
     public static void main(String[] args) {
 
@@ -13,7 +15,7 @@ public class Lab5 {
         HttpClient httpClient = HttpClient.newHttpClient();
 
         HttpRequest httpRequest = HttpRequest.newBuilder()
-                .uri(URI.create("http://www.google.com"))
+                .uri(URI.create("http://www.juanpabloprado.com"))
                 .GET()
                 .build();
 
