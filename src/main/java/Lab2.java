@@ -2,7 +2,7 @@ public class Lab2 {
 
     public static void main(String[] args) {
 
-        var name = "Jenny \n";
+        var name = "Juan \n";
 
         System.out.println(name.repeat(5));
 

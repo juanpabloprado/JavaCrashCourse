@@ -16,9 +16,7 @@ First, welcome to this crash course on Java.
 ## Outline
 
 * Introduction (Lecture ~ 20 min)
-  * Introduction to Java - OOP concepts (classes, constructors, overloading and overriding)
-  * JShell and Hello World
-  * Explain first lab
-* Write, compile and run your Hello World in Java (Lab 1 ~ 10 min)
-* Exercise with variables (Lab 3 ~ 10 min)
+* Exercise with the new String methods (Lab 2 ~ 10 min)
+* Exercise with Local variable Type inference (Lab 3 ~ 10 min)
 * Exercise with loops (Lab 4 ~ 10 min)
+* Exercise with the new HttpClient (Lab 5 ~ 10 min)
